@@ -1,0 +1,36 @@
+.card{
+    height: 450px;
+    
+    color: white;
+    .card-img{
+        width: 60%;
+    }
+
+}
+
+.card__sedan{
+    background-color: rgb(217, 134, 36);
+    .btn{
+        color: rgb(217, 134, 36);
+        background-color: white;
+        border-radius: 20px;
+    }
+}
+
+.card__suvs{
+    background-color: rgb(2, 105, 114);
+    .btn{
+        color: rgb(2, 105, 114);
+        background-color: white;
+        border-radius: 20px;
+    }
+}
+
+.card__luxury{
+    background-color: rgb(0, 64, 64);
+    .btn{
+        color: rgb(0, 64, 64);
+        background-color: white;
+        border-radius: 20px;
+    }
+}
